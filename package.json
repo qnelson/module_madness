@@ -1,0 +1,22 @@
+{
+  "name": "module_madness",
+  "version": "1.0.0",
+  "description": "lecture code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kris szafranski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qnelson/module_madness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qnelson/module_madness/issues"
+  },
+  "homepage": "https://github.com/qnelson/module_madness#readme"
+}
